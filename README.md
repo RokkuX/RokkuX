@@ -6,7 +6,7 @@
 
 
 ## Some of the tools I have worked with:
-<img src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg" width="120px"><img src="https://cdn.freelogovectors.net/wp-content/uploads/2019/06/uipath-logo.jpg"  width="140px"><img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" width="130px"><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="130px"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="130px"><img src="https://www.vectorlogo.zone/logos/mit_scratch/mit_scratch-ar21.svg" width="130px">
+<img src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg" width="120px"><img src="https://github.com/RokkuX/RokkuX/blob/main/uipath-logo.jpg?raw=true"  width="140px"><img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" width="130px"><img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="130px"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="130px"><img src="https://www.vectorlogo.zone/logos/mit_scratch/mit_scratch-ar21.svg" width="130px">
 
 
 
