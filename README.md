@@ -1,4 +1,4 @@
-<h1> <img src="https://github.com/RokkuX/RokkuX/blob/main/BIENVENIDOS%20A%20MI%20GIT.gif?raw=true" width="700"></h1>
+<h1> <img src="https://github.com/RokkuX/RokkuX/blob/main/BIENVENIDOS%20A%20MI%20GIT.gif?raw=true" width="1000"></h1>
 
 Soy fanático de la impresión 3D y programación, actualmente aprendiendo Linux y Ethical Hacking!!!
 
