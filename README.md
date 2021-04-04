@@ -1,6 +1,6 @@
-<h1> <img src="https://github.com/RokkuX/RokkuX/blob/main/BIENVENIDOS%20A%20MI%20GIT.gif?raw=true" width="1000"></h1>
+<h1> <img src="https://github.com/RokkuX/RokkuX/blob/main/GitBanner.gif?raw=true" width="1000"></h1>
 
-3D Designer | DIY Fan | Learning LINUX, Ethical Hacking | Music Addict
+         3D Designer | DIY Fan | Learning LINUX, Ethical Hacking | Music Addict
 
 <h1> <img src="https://media.giphy.com/media/SqBjjnQwMicwGRoIHA/giphy.gif" width="40px"> This is my GIT </h1>
 
