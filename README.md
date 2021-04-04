@@ -2,7 +2,7 @@
 
 Soy fanático de la impresión 3D y programación, actualmente aprendiendo Linux y Ethical Hacking!!!
 
-<h1> <img src="https://media.giphy.com/media/SqBjjnQwMicwGRoIHA/giphy.gif" width="40px"> Hola! Este es mi GIT </h1>
+<h1> <img src="https://media.giphy.com/media/SqBjjnQwMicwGRoIHA/giphy.gif" width="40px"> This is my GIT </h1>
 
 
 ## This is what I work with:
